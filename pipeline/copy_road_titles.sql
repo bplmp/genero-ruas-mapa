@@ -1,1 +1,1 @@
-\COPY road_titles FROM '../titles.csv' DELIMITER ',' CSV HEADER;
+\COPY road_titles FROM './road_titles.csv' DELIMITER ',' CSV HEADER;
