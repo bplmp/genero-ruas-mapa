@@ -6,7 +6,7 @@ Street names and geometries are are extracted from [OpenStreetMap](http://openst
 
 In a nutshell, it extracts genders from street names following these steps:
 
-1. Removing Portguese stopwords from the street name.
+1. Removing Portuguese stopwords from the street name.
 2. Removing street types from the name (e.g. Street, Avenue, Alley).
 3. Removing titles and professions from street names (e.g. Governor, Mayor, Pope).
 4. Defining gender based [on this table extracted from the Brazilian Census](https://github.com/MedidaSP/nomes-brasileiros-ibge).
